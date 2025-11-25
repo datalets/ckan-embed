@@ -2,6 +2,8 @@
   Sample formatting for the embedded widget results
 */
 
+html > body { padding: 3em; }
+
 .ckan-dataset {
   border-bottom: 1px solid #ccc;
   padding: 15px 0px;
