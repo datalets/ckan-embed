@@ -1,6 +1,6 @@
 {
   "name": "ckan-embed",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Embed information from CKAN data portals into other websites.",
   "keywords": [
     "ckan",
