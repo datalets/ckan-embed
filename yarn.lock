@@ -729,7 +729,6 @@ cipher-base@^1.0.0, cipher-base@^1.0.1, cipher-base@^1.0.3:
 
 "ckan@git+ssh://git@github.com/okfn/ckan.js.git":
   version "0.2.4"
-  uid cd423cc6adb53802d00b456fe557a259105af69a
   resolved "git+ssh://git@github.com/okfn/ckan.js.git#cd423cc6adb53802d00b456fe557a259105af69a"
   dependencies:
     deferred "^0.7.11"
